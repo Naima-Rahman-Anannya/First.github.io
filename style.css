@@ -1,0 +1,21 @@
+img{
+	 width:160;
+	 height:180;	
+}
+h3{
+	color:black;
+	background-color:cyan;
+}
+table {
+  width: 700px;
+  height: 250px;
+}
+td {
+  text-align: center;
+}
+.date {
+  margin-top: 34px;
+}
+img {
+  margin-top: -170px;
+}
